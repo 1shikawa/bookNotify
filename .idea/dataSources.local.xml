@@ -4,6 +4,7 @@
     <data-source name="db" uuid="9a3b409a-5760-4f30-b60e-8d80fe6a5905">
       <database-info product="" version="" jdbc-version="" driver-name="" driver-version="" dbms="SQLITE" exact-version="0" />
       <auth-required>false</auth-required>
+      <introspection-schemas>*:</introspection-schemas>
     </data-source>
   </component>
 </project>
