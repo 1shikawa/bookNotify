@@ -15,9 +15,15 @@ Including another URLconf
 """
 from django.contrib import admin
 from django.urls import path
-from django.conf.urls import include #追加
+from django.conf.urls import include  # 追加
 
 urlpatterns = [
     path('admin/', admin.site.urls),
-    path('book/', include('isbn.urls')), #追加
+    path('book/', include('isbn.urls')),  # 追加
+]
+
+from django.views.generic import RedirectView
+
+urlpatterns += [
+    path('', RedirectView.as_view(url='/book/list', permanent=True)),
 ]
