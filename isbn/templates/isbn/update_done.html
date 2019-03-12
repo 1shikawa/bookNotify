@@ -1,0 +1,20 @@
+{% extends './base.html' %}
+{% block content %}
+
+  <div class="content-wrapper">
+    <div class="container-fluid">
+      <!-- Breadcrumbs-->
+      <ol class="breadcrumb">
+        <li class="breadcrumb-item">
+          <a href="{% url 'isbn:book_list' %}">TOP</a>
+        </li>
+        <li class="breadcrumb-item active">楽天書籍管理アプリ</li>
+      </ol>
+      <!-- Example DataTables Card-->
+      <div class="card mb-3">
+        <div class="card-header">
+          <i class="fa fa-server"></i> <b>楽天書籍管理アプリ</b></div>
+        <div class="card-body">
+
+<div class="alert alert-info" role="alert">データ更新が正常終了しました。</div>
+{% endblock content %}
