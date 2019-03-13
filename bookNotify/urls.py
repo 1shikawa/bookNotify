@@ -25,5 +25,5 @@ urlpatterns = [
 from django.views.generic import RedirectView
 
 urlpatterns += [
-    path('', RedirectView.as_view(url='/book/list', permanent=True)),
+    path('', RedirectView.as_view(url='/book/', permanent=True)),
 ]
