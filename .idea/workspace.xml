@@ -3,19 +3,6 @@
   <component name="ChangeListManager">
     <list default="true" id="a9b0477c-1789-46c7-bafa-cca2d5a621cc" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/bookNotify/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/bookNotify/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/management/commands/get_isbn_info.py" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/management/commands/get_isbn_info.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/base.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/base.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/create_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/create_done.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/delete_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/delete_done.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/isbn_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/isbn_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/result.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/result.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/searchword_confirm_delete.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/searchword_confirm_delete.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/searchword_form.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/searchword_form.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/searchword_list.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/searchword_list.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/templates/isbn/update_done.html" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/templates/isbn/update_done.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/urls.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/isbn/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/isbn/views.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -93,7 +80,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/views.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+              <caret line="59" selection-start-line="59" selection-end-line="59" />
               <folding>
                 <element signature="e#0#35#0" expanded="true" />
               </folding>
@@ -104,8 +91,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/isbn/management/commands/get_isbn_info.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="540">
-              <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+            <state relative-caret-position="162">
+              <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
               <folding>
                 <element signature="e#0#73#0" expanded="true" />
               </folding>
@@ -180,7 +167,7 @@
         <entry file="file://$PROJECT_DIR$/bookNotify/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="185">
-              <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+              <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
               <folding>
                 <element signature="e#634#666#0" expanded="true" />
               </folding>
@@ -192,7 +179,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/urls.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="252">
-              <caret line="14" column="69" lean-forward="true" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+              <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
               <folding>
                 <element signature="e#0#28#0" expanded="true" />
               </folding>
@@ -204,7 +191,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/result.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="306">
-              <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+              <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
             </state>
           </provider>
         </entry>
@@ -213,7 +200,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/update_done.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="288">
-              <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+              <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
             </state>
           </provider>
         </entry>
@@ -231,7 +218,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/searchword_confirm_delete.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="262">
-              <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+              <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
             </state>
           </provider>
         </entry>
@@ -240,7 +227,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/delete_done.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="216">
-              <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+              <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
             </state>
           </provider>
         </entry>
@@ -267,7 +254,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/isbn_list.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-116">
-              <caret line="49" column="79" lean-forward="true" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
+              <caret line="49" column="79" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
             </state>
           </provider>
         </entry>
@@ -294,7 +281,7 @@
         <entry file="file://$PROJECT_DIR$/isbn/utils.py">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="576">
-              <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+              <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
               <folding>
                 <element signature="e#0#40#0" expanded="true" />
               </folding>
@@ -403,9 +390,9 @@
     <auto-save>true</auto-save>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-12" />
-    <option name="width" value="1941" />
-    <option name="height" value="1152" />
+    <option name="x" value="-11" />
+    <option name="width" value="1940" />
+    <option name="height" value="1151" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -473,9 +460,10 @@
   <component name="PropertiesComponent">
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="WebServerToolWindowFactoryState" value="false" />
-    <property name="last_opened_file_path" value="C:/node/node-v10.15.0-win-x64/node_modules/vue-cli" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Learning" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
   <component name="PyConsoleOptionsProvider">
@@ -528,7 +516,7 @@
     </configuration>
   </component>
   <component name="SvnConfiguration">
-    <configuration />
+    <configuration>C:\Users\toru-ishikawa\AppData\Roaming\Subversion</configuration>
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -540,7 +528,7 @@
       <workItem from="1552362885664" duration="13198000" />
       <workItem from="1552378298737" duration="861000" />
       <workItem from="1552379262689" duration="5431000" />
-      <workItem from="1552437848117" duration="2370000" />
+      <workItem from="1552437848117" duration="5253000" />
     </task>
     <task id="LOCAL-00001" summary="first commit">
       <created>1552379606028</created>
@@ -570,16 +558,24 @@
       <option name="project" value="LOCAL" />
       <updated>1552383846690</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="urls, templates modify">
+      <created>1552459173797</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1552459173797</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="21860000" />
+    <option name="totallyTimeSpent" value="24743000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1295" height="775" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.26153848" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -590,11 +586,11 @@
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" />
-      <window_info anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32970452" />
+      <window_info active="true" anchor="bottom" id="Version Control" order="8" visible="true" weight="0.32970452" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
       <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.32192847" />
-      <window_info anchor="bottom" id="Python Console" order="12" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.32970452" />
       <window_info anchor="bottom" id="Messages" order="13" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -648,7 +644,8 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first commit" />
-    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+    <MESSAGE value="urls, templates modify" />
+    <option name="LAST_COMMIT_MESSAGE" value="urls, templates modify" />
   </component>
   <component name="editorHistoryManager">
     <entry file="file://$PROJECT_DIR$/manage.py">
@@ -759,7 +756,7 @@
     <entry file="file://$PROJECT_DIR$/isbn/utils.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="576">
-          <caret line="47" column="32" lean-forward="true" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
+          <caret line="47" column="32" selection-start-line="47" selection-start-column="32" selection-end-line="47" selection-end-column="32" />
           <folding>
             <element signature="e#0#40#0" expanded="true" />
           </folding>
@@ -783,28 +780,28 @@
     <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/delete_done.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="216">
-          <caret line="12" column="24" lean-forward="true" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
+          <caret line="12" column="24" selection-start-line="12" selection-start-column="24" selection-end-line="12" selection-end-column="24" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/isbn_list.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-116">
-          <caret line="49" column="79" lean-forward="true" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
+          <caret line="49" column="79" selection-start-line="49" selection-start-column="79" selection-end-line="49" selection-end-column="79" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/result.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="306">
-          <caret line="17" column="22" lean-forward="true" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
+          <caret line="17" column="22" selection-start-line="17" selection-start-column="22" selection-end-line="17" selection-end-column="22" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/searchword_confirm_delete.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="262">
-          <caret line="27" column="10" lean-forward="true" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
+          <caret line="27" column="10" selection-start-line="27" selection-start-column="10" selection-end-line="27" selection-end-column="10" />
         </state>
       </provider>
     </entry>
@@ -825,14 +822,14 @@
     <entry file="file://$PROJECT_DIR$/isbn/templates/isbn/update_done.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="288">
-          <caret line="16" column="39" lean-forward="true" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
+          <caret line="16" column="39" selection-start-line="16" selection-start-column="39" selection-end-line="16" selection-end-column="39" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/isbn/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="69" lean-forward="true" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
           <folding>
             <element signature="e#0#28#0" expanded="true" />
           </folding>
@@ -862,7 +859,7 @@
     <entry file="file://$PROJECT_DIR$/bookNotify/urls.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="185">
-          <caret line="24" column="35" lean-forward="true" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
+          <caret line="24" column="35" selection-start-line="24" selection-start-column="35" selection-end-line="24" selection-end-column="35" />
           <folding>
             <element signature="e#634#666#0" expanded="true" />
           </folding>
@@ -872,7 +869,7 @@
     <entry file="file://$PROJECT_DIR$/isbn/views.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="59" lean-forward="true" selection-start-line="59" selection-end-line="59" />
+          <caret line="59" selection-start-line="59" selection-end-line="59" />
           <folding>
             <element signature="e#0#35#0" expanded="true" />
           </folding>
@@ -881,8 +878,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/isbn/management/commands/get_isbn_info.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="540">
-          <caret line="30" column="31" lean-forward="true" selection-start-line="30" selection-start-column="31" selection-end-line="30" selection-end-column="31" />
+        <state relative-caret-position="162">
+          <caret line="9" column="13" lean-forward="true" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
           <folding>
             <element signature="e#0#73#0" expanded="true" />
           </folding>
