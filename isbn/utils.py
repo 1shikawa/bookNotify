@@ -2,6 +2,7 @@ from isbn.models import Book, SearchWord
 import urllib.parse
 import requests
 from datetime import datetime
+from django.conf import settings
 
 
 def get_word_list():
@@ -16,7 +17,7 @@ def get_word_list():
 def create_url(word):
     # 検索ワードに登録されているワードの書籍情報を検索
     API = "https://app.rakuten.co.jp/services/api/BooksBook/Search/20170404"
-    APPLICATION_ID = "1070374734242724400"
+    APPLICATION_ID = settings.APPLICATION_ID
 
     values = {
         "applicationId": APPLICATION_ID,
@@ -31,7 +32,7 @@ def create_url(word):
 
 
 def lineNotify(message):
-    line_notify_token = 'GnXdOqWTkRCw85oHjB8nQGqkO388zjBx5AGBKWwKi0R'
+    line_notify_token = settings.LINE_NOTIFY_TOKEN
     line_notify_api = 'https://notify-api.line.me/api/notify'
     payload = {'message': message}
     headers = {'Authorization': 'Bearer ' + line_notify_token}

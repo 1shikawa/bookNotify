@@ -133,3 +133,7 @@ except ImportError:
 
 # Activate Django-Heroku.
 django_heroku.settings(locals())
+
+# APIキー定義
+APPLICATION_ID = os.environ['APPLICATION_ID']
+LINE_NOTIFY_TOKEN = os.environ['LINE_NOTIFY_TOKEN']

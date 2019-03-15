@@ -9,13 +9,15 @@ import json
 import logging
 import pprint
 
-#初期パラメータ設定
+# 初期パラメータ設定
 logdir = r"C:\Users\toru-ishikawa\PycharmProjects\bookNotify\bookNotify\log"
-#現在時刻の取得
+# 現在時刻の取得
 date_name = datetime.now().strftime("%Y%m%d-%H%M%S")
-#ファイル名の生成
-file_name = logdir + "\\" + date_name +  "_" + "GET_ISBN_INFO.log"
-logging.basicConfig(filename=file_name,level=logging.DEBUG,format='%(asctime)s %(message)s', datefmt='%m/%d/%Y %I:%M:%S %p')
+# ファイル名の生成
+file_name = logdir + "\\" + date_name + "_" + "GET_ISBN_INFO.log"
+logging.basicConfig(filename=file_name, level=logging.DEBUG, format='%(asctime)s %(message)s',
+                    datefmt='%m/%d/%Y %I:%M:%S %p')
+
 
 class Command(BaseCommand):
     """ カスタムコマンド定義 """
