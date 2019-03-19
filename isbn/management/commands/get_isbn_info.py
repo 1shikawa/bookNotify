@@ -10,7 +10,8 @@ import logging
 import pprint
 
 # 初期パラメータ設定
-logdir = r"C:\Users\toru-ishikawa\PycharmProjects\bookNotify\bookNotify\log"
+# logdir = r"C:\Users\toru-ishikawa\PycharmProjects\bookNotify\bookNotify\log"
+logdir = "/app/log"
 # 現在時刻の取得
 date_name = datetime.now().strftime("%Y%m%d-%H%M%S")
 # ファイル名の生成
